@@ -10,6 +10,30 @@
 
 
 
+Once the number of teeth for each component is calculated, the gear ratio for each stage can be determined by Equation 2 and then the total gear ratio for an epicyclic gear train can be found by using Equation 3.
+
+
+
+The gear ratio is proportional to the ratio between the input and output torque, as well as the input and output angular velocity (RPM), as can be seen in Equation 4. The values in table 3 reflect the calculations done using Equation 4.
+
+
+
+One of the most important values needed when working with gears is the pitch diameter. This diameter is somewhere in between the outside diameter and the center and is crucial to making sure that the gears fit together without friction. In order to calculate the pitch diameter for an epicyclic gear train, the value of the center to center distances between the two gears is needed. Equation 6 can be used if the two components have the same number of teeth and Equation 7 can be used if they do not. The calculated values for the pitch diameters are listed below in Table 4.
+
+
+
+### Discussion Questions
+1.	Three instances where Black & Decker incorporated Design for Manufacturing and Assembly (DFMA):
+
+•	Injection molding: When looking at the product closely, it is easy to tell that parts of the structure of the screwdriver were created through injection molding. The orange plastic covers, in particular, have small round circles that are a result of the molds pushing together and not lining up exactly.
+•	Uniform fasteners: Three out of the five screws used to assemble the screwdriver are identical—a tactic used by manufacturers to make it simpler to put the product together. The other two screws are most likely different because they need to serve a specific function that couldn’t be obtained using the other screw.
+•	Premade gears: premade gears make the most sense to use since it is extremely difficult to make from scratch. Using standardized gears is also more reliable and cost effective.
+
+2.	How the Power/Manual option works:
+
+The drill can switch from power to manual mode and vice versa by rotating the tip of the drill until it clicks into place. Perhaps the rotation of the tip causes the gear train to lock so that it can no longer rotate, so then the bit will be able to act like a normal screwdriver.
+
+
 You can use the [editor on GitHub](https://github.com/nikunjkhetan/screwdriver/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

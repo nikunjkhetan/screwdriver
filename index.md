@@ -8,7 +8,7 @@
 
   After taking apart the screwdriver, the individual parts of the gear train were analyzed, starting with the number of teeth (N). For the ring, planets, and the sun, N is found by simply counting the number of teeth. For the planetary carrier, however, N is found by using Equation 1.
 
-
+![Image](ProductStructure.jpg)
 
 Once the number of teeth for each component is calculated, the gear ratio for each stage can be determined by Equation 2 and then the total gear ratio for an epicyclic gear train can be found by using Equation 3.
 

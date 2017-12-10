@@ -26,7 +26,9 @@ One of the most important values needed when working with gears is the pitch dia
 1.	Three instances where Black & Decker incorporated Design for Manufacturing and Assembly (DFMA):
 
 •	Injection molding: When looking at the product closely, it is easy to tell that parts of the structure of the screwdriver were created through injection molding. The orange plastic covers, in particular, have small round circles that are a result of the molds pushing together and not lining up exactly.
+
 •	Uniform fasteners: Three out of the five screws used to assemble the screwdriver are identical—a tactic used by manufacturers to make it simpler to put the product together. The other two screws are most likely different because they need to serve a specific function that couldn’t be obtained using the other screw.
+
 •	Premade gears: premade gears make the most sense to use since it is extremely difficult to make from scratch. Using standardized gears is also more reliable and cost effective.
 
 2.	How the Power/Manual option works:

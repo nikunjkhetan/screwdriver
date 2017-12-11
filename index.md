@@ -23,7 +23,7 @@ One of the most important values needed when working with gears is the pitch dia
 
 ### Graphical Representation of Product Structure
 
-![Image](ProductStructure.png)
+![Image](ProductStructure.PNG)
 
 This image displays all of the different components and subassemblies that go into the creation of the LI2000 Black & Decker screwdriver.
 

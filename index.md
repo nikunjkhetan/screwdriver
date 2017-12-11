@@ -42,6 +42,12 @@ This image displays all of the different components and subassemblies that go in
 
 The drill can switch from power to manual mode and vice versa by rotating the tip of the drill until it clicks into place. Perhaps the rotation of the tip causes the gear train to lock so that it can no longer rotate, so then the bit will be able to act like a normal screwdriver.
 
+### Drawings
+
+![Image](Sheet1.PNG)  ![Image](Sheet2.PNG)
+![Image](Sheet3.PNG)  ![Image](Sheet4.PNG)
+![Image](Sheet5.PNG)
+
 
 You can use the [editor on GitHub](https://github.com/nikunjkhetan/screwdriver/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
